@@ -21,7 +21,7 @@ extern "C" {
 
 // The max number of per-dispatch bindings allowed in the CUDA HAL
 // implementation.
-#define IREE_HAL_CUDA_MAX_DISPATCH_BINDING_COUNT 16
+#define IREE_HAL_CUDA_MAX_DISPATCH_BINDING_COUNT 32
 
 // The max number of per-dispatch constants supported by the CUDA HAL
 // implementation.
